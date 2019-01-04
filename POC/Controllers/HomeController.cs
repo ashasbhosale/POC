@@ -15,7 +15,7 @@ namespace POC.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Jenkins CI POC Test 1 on AWS1";
+            ViewBag.Message = "Jenkins CI test on AWS";
 
             return View();
         }
