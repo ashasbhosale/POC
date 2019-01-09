@@ -15,7 +15,7 @@ namespace POC.Controllers
 
         public ActionResult About()
         { 
-            ViewBag.Message = "Jenkins  CI  AWS Git W ebh ook ITS`";
+            ViewBag.Message = "Jenkin s  CI  AWS Git W ebh ook ITS`";
 
             return View();
         }
